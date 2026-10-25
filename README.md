@@ -1,10 +1,21 @@
 <div align="center">
 
+# Proje Yükleme Aşamaları
+<img width="1722" height="1304" alt="image" src="https://github.com/user-attachments/assets/e6b24957-2fd1-433e-ab17-6d281511b96e" />
+<img width="2870" height="428" alt="image" src="https://github.com/user-attachments/assets/162f4120-8566-4d97-adbb-615301f1f98c" />
+<img width="986" height="739" alt="image (2)" src="https://github.com/user-attachments/assets/58e903f3-1b5b-464d-857d-020925533c32" />
+
+</br>
+</br>
+</br>
+</br>
+</br>
+
+<!--
+# Repoya erişim
 <img src="docs/qr-repo.png" alt="github.com/tc-yusufburakdemir/weather-app adresinin QR kodu" width="220">
-
-**Repoya erişim**
-
 [github.com/tc-yusufburakdemir/weather-app](https://github.com/tc-yusufburakdemir/weather-app)
+-->
 
 </div>
 
